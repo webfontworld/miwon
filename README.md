@@ -2,9 +2,6 @@
 
 # 미원체(miwon)
 
-<a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/miwon/miwon.jpg" alt="miwon" style="width:300px">
-</a>
 <pre>
 @font-face {
     font-family: 'miwon';
